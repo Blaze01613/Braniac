@@ -1,4 +1,1 @@
-/index.html        (tu archivo principal)
-/assets/js/        (para futuros archivos JavaScript)
-/assets/css/       (para futuros archivos CSS)
-/assets/sounds/    (para los sonidos si los descargas)
+
